@@ -1,0 +1,32 @@
+_repo: Geoffrey-Strong_8877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nieces -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Sick -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Physicians -- Fiction'
+- GITenberg
+title: Geoffrey Strong
+url: http://www.gutenberg.org/ebooks/8877
